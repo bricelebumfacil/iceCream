@@ -53,7 +53,7 @@ const SignIn = () => {
             <Text className="text-lg text-gray-100 font-pregular">
               Don't have an Account?
             </Text>
-            <Link href="/home" className="text-lg font-psemibold text-secondary" >Sign Up</Link>
+            <Link href="/sign-up" className="text-lg font-psemibold text-secondary" >Sign Up</Link>
           </View>
         </View>
       </ScrollView>

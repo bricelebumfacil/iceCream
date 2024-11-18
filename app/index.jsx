@@ -8,7 +8,7 @@ import CustomButtons from '../components/CustomButtons';
 
 export default function App() {
   return (
-    <SafeAreaView className="bg-gray-500 h-full pt-5">
+    <SafeAreaView className="bg-primary h-full pt-5">
       <ScrollView contentContainerStyle={{ height: '100%' }}>
         <View className="w-full items-center justify-center min-h-[85vh] px-4 pt-19">
           <Image
