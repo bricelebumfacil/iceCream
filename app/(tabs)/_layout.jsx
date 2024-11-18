@@ -21,8 +21,6 @@ const TabLayout = () => {
   return (
    <>
     <Tabs>
-
-
       <Tabs.Screen
         name="home"
         options={{
