@@ -32,7 +32,8 @@ SweetIceCream Mobile App.
 
 # MP4 Walk Through Video From Home Screen To Sign-up Screen
 
-Uploading Record_2024-11-18-10-47-42_f73b71075b1de7323614b647fe394240.mp4…
+https://github.com/user-attachments/assets/79f2637e-7e29-4f73-b8a9-545cf7c81d62
+
 
 
 
